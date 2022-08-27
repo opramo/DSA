@@ -1,13 +1,12 @@
-//Bubble Sor//
+//Bubble Sort//
 
 /*
-    The simplest sorting algorithm
-    Works by repeatedly swapping the adjacent elements
-    Not suitable for large data sets as its average and worst-case time complexity
-    is quite high.
-    Time Complexity: O(n^2)
-    Space Complexity: O(1)
-
+  The simplest sorting algorithm
+  Works by repeatedly swapping the adjacent elements
+  Not suitable for large data sets as its average and worst-case time complexity
+  is quite high.
+  Time Complexity: O(n^2)
+  Space Complexity: O(1)
 */
 
 const bubbleSort = (arr) => {
